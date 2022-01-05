@@ -1,6 +1,15 @@
 p{
   color: red
+  }
 }
 h1{
   color: rgb(255, 51, 0)
+}
+p{
+  background-color: seagreen;
+  }
+  .ronja{
+    color: rgb(235, 192, 135);
+    background-color: tomato;
+  }
 }
